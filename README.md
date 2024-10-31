@@ -1,7 +1,7 @@
 # Parcial1DesarrolloDeSoftwareBackend
 
 El proyecto esta Formado de la siguiente manera 1 Clase llamada Peticion, la clase Main llamada DemoApplication, y la clase del controlador en el paquete llamado rest , la misma lleva el nombre de RestController
-en esta se obtiene el arreglo previamente enviado por el metodo POST en POSTMAN en formato JSON como el siguiente ejemplo
+en esta se obtiene el arreglo previamente enviado por el metodo POST en POSTMAN a la direccion localhost:puerto/Endpoint en formato JSON como el siguiente ejemplo
 
 JSON EJEMPLO : 
 {"dna":
